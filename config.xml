@@ -4,7 +4,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.novaeratec.scortecci"
-        version   = "2.4.4">
+        version   = "2.4.5">
 
     <name>GRUPO SCORTECCI 2014</name>
 
