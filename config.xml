@@ -4,7 +4,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.novaeratec.scortecci"
-        version   = "2.4.596">
+        version   = "2.4.600">
 
     <name>GRUPO SCORTECCI 2015</name>
 
@@ -12,7 +12,7 @@
         APP institucional do GRUPO SCORTECCI.
     </description>
 
-    <author href="http://www.virtualbag.com.br" email="contato@novaeratec.com.br">
+    <author href="http://www.novaeratec.com.br" email="contato@novaeratec.com.br">
         Time Nova Era Tecnologia
     </author>
 
