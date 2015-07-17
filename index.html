@@ -135,7 +135,10 @@ $(window).load(function() {
 	  </ul>		
 	</div>
 	<div data-role="footer" data-theme="b" data-position="fixed">
-	<div data-role="navbar">
+	<img src="img/menu-fb.jpg" width="32" height="32" alt="" onClick="window.plugins.socialsharing.shareViaFacebookWithPasteMessageHint('Eu já tenho o aplicativo do GRUPO EDITORIAL SCORTECCI. Baixe você também e fique por dentro das novidades.', null /* img */, 'http://www.ubrafe.org.br', 'Mensagem pronta para colar!', function() {console.log('share ok')}, function(errormsg){alert('Não foi possível compartilhar via Facebook!')})"/>
+
+  <img src="img/menu-tw.jpg" alt="" onClick="window.plugins.socialsharing.shareViaTwitter('Eu já tenho o aplicativo do GRUPO EDITORIAL SCORTECCI. Baixe você também e fique por dentro das novidades.')"/><img src="img/menu_wa.png" alt="" onClick="window.plugins.socialsharing.shareViaWhatsApp('Eu já tenho o aplicativo do GRUPO EDITORIAL SCORTECCI. Baixe você também e fique por dentro das novidades.', null /* img */, 'http://www.ubrafe.org.br', function() {console.log('share ok')}, function(errormsg){alert('Não foi possível compartilhar via Whatsapp!')})"/><img src="img/menu-share.jpg" alt="" width="32" onClick="window.plugins.socialsharing.share('UMC+UNIVERSIDADE', 'Eu já tenho o aplicativo do GRUPO EDITORIAL SCORTECCI. Baixe você também e fique por dentro das novidades.', null, 'http://www.ubrafe.org.br')"/>
+  <div data-role="navbar">
 		<ul>
 			<li class="ui-btn-active ui-state-persist"><a href="#page" data-icon="grid" class="ui-btn-active">Inicio</a></li>
 			<li><a href="#page3" data-icon="gear">Redes sociais</a></li>
