@@ -4,9 +4,9 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.novaeratec.scortecci"
-        version   = "2.6.500">
+        version   = "2.7.000">
 
-    <name>GRUPO SCORTECCI 2015</name>
+    <name>GRUPO SCORTECCI APP</name>
 
     <description>
         APP institucional do GRUPO SCORTECCI.
