@@ -1,9 +1,9 @@
 <widget xmlns="http://www.w3.org/ns/widgets" 
 	xmlns:gap="http://phonegap.com/ns/1.0" 
 	id="com.novaeratec.scortecci" 
-	versionCode = "28000"
-	version="2.8.000">
-	<name>GRUPO SCORTECCI APP</name>
+	versionCode = "28100"
+	version="2.8.100">
+	<name>GRUPO SCORTECCI APP v. 2.8.100</name>
 	<description>APP institucional do GRUPO SCORTECCI.</description>
 	<author href="http://www.novaeratec.com.br" email="contato@novaeratec.com.br">
 		Time Nova Era Tecnologia
@@ -31,6 +31,7 @@
 	<plugin name="cordova-plugin-statusbar" source="npm" spec="~2.1.2"/>
 	<plugin name="cordova-plugin-vibration" source="npm" spec="~2.1.0"/>
 	<plugin name="cordova-plugin-whitelist" source="npm" spec="~1.2.1"/>
+	<icon src="icon.png" />
 	<platform name="android">
 		<icon src="www/res/icon/android/icon-36-ldpi.png" density="ldpi"/>
 		<icon src="www/res/icon/android/icon-48-mdpi.png" density="mdpi"/>
