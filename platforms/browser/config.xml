@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.novaeratec.scortecci" version="2.8.700" versionCode="28700" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>GRUPO SCORTECCI APP v. 2.8.7</name>
+<widget id="com.novaeratec.scortecci" version="2.8.800" versionCode="28800" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>GRUPO SCORTECCI APP v. 2.8.8</name>
     <description>APP institucional do GRUPO SCORTECCI.</description>
     <author email="contato@novaeratec.com.br" href="http://www.novaeratec.com.br">
 		Time Nova Era Tecnologia
@@ -8,6 +8,7 @@
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
+    <icon src="img/logo.png" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
