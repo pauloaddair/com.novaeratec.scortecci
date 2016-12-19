@@ -1,9 +1,9 @@
 <widget xmlns="http://www.w3.org/ns/widgets" 
 	xmlns:gap="http://phonegap.com/ns/1.0" 
 	id="com.novaeratec.scortecci" 
-	versionCode = "28820"
-	version="2.8.820">
-	<name>GRUPO SCORTECCI APP v. 2.8.82</name>
+	versionCode = "28900"
+	version="2.8.900">
+	<name>GRUPO SCORTECCI APP v. 2.8.9</name>
 	<description>APP institucional do GRUPO SCORTECCI.</description>
 	<author href="http://www.novaeratec.com.br" email="contato@novaeratec.com.br">
 		Time Nova Era Tecnologia
